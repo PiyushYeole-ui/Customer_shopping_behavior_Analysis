@@ -9,15 +9,15 @@ The project simulates real-world responsibilities of a Data Analyst working in r
 # 🎯 Business Objective
 Retail businesses need answers to critical questions:
 
--Which products truly drive revenue?
+- Which products truly drive revenue?
 
--Do discounts increase profitability or just order volume?
+- Do discounts increase profitability or just order volume?
 
--Which customer segments generate the most value?
+- Which customer segments generate the most value?
 
--What are the most preferred product categories?
+- What are the most preferred product categories?
 
--How do ratings correlate with sales performance?
+- How do ratings correlate with sales performance?
 
 This project addresses these business problems using structured analytical techniques.
 
