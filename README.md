@@ -56,59 +56,88 @@ Git & GitHub
 **1️⃣ Data Cleaning & Preparation (Python)**
 
    Imported raw CSV dataset
+   
    Checked missing values and inconsistencies
+   
    Standardized categorical variables
+   
    Validated numeric fields
+   
    Prepared cleaned dataset for database import
    
 **2️⃣ Data Modeling & SQL Analysis**
 
    Imported cleaned dataset into SQL database
+   
    Performed aggregation analysis
+   
    Extracted top-performing products
+   
    Calculated discount usage percentage
+   
    Analyzed rating vs revenue patterns
 
 **3️⃣ Data Visualization & Dashboarding (Power BI)**
 
 Connected SQL database to Power BI
+
 Created data model and relationships
+
 Built interactive dashboard including:Revenue by Category
    Top Products by Sales
+   
    Discount Impact Analysis
+   
    Customer Purchase Frequency
+   
    Rating Distribution
+   
 Used filters and slicers for dynamic business exploration
+
 Designed KPI cards for executive-level reporting
 
 **4️⃣ Insight Generation & Business Interpretation**
 
   Identified high-performing product categories
+  
   Evaluated discount effectiveness
+  
   Compared revenue vs transaction volume
+  
   Analyzed customer purchase behavior patterns
+  
   Generated business recommendations
 
 **📊 Key Insights**
 
   High sales volume does not always equal high revenue.
+  
   Certain categories dominate transaction frequency.
+  
   Discounted transactions increase order count but may impact average order value.
+  
   Rating score is not always directly proportional to revenue generation.
+  
   Shipping preference patterns indicate customer cost sensitivity.
 
 **🚀 How to Run This Project**
 
    Import the dataset into your SQL database
+   
    Execute the SQL query file
+   
    Run the Jupyter Notebook for cleaning and validation
+   
    Review insights and extend analysis
 
 **📈 Skills Demonstrated** 
 
    SQL Query Optimization
+   
    Business-Oriented Data Analysis
+   
    Analytical Thinking
+   
    Insight Communication
 
 **💼 Why This Project Matters**
