@@ -52,6 +52,7 @@ Jupyter Notebook
 Git & GitHub
 
 # 🔄 End-to-End Workflow
+
 **1️⃣ Data Cleaning & Preparation (Python)**
 
    Imported raw CSV dataset
@@ -60,7 +61,7 @@ Git & GitHub
    Validated numeric fields
    Prepared cleaned dataset for database import
    
-**2️⃣ Data Modeling & SQL Analysis **
+**2️⃣ Data Modeling & SQL Analysis**
 
    Imported cleaned dataset into SQL database
    Performed aggregation analysis
@@ -89,6 +90,7 @@ Designed KPI cards for executive-level reporting
   Generated business recommendations
 
 **📊 Key Insights**
+
   High sales volume does not always equal high revenue.
   Certain categories dominate transaction frequency.
   Discounted transactions increase order count but may impact average order value.
@@ -96,18 +98,21 @@ Designed KPI cards for executive-level reporting
   Shipping preference patterns indicate customer cost sensitivity.
 
 **🚀 How to Run This Project**
+
    Import the dataset into your SQL database
    Execute the SQL query file
    Run the Jupyter Notebook for cleaning and validation
    Review insights and extend analysis
 
 **📈 Skills Demonstrated** 
+
    SQL Query Optimization
    Business-Oriented Data Analysis
    Analytical Thinking
    Insight Communication
 
 **💼 Why This Project Matters**
+
  This project showcases practical skills required in real Data Analyst roles:
    Translating business questions into SQL queries
    Extracting measurable insights
