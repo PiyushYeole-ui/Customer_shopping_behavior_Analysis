@@ -9,15 +9,15 @@ The project simulates real-world responsibilities of a Data Analyst working in r
 # 🎯 Business Objective
 Retail businesses need answers to critical questions:
 
-  Which products truly drive revenue?
+-Which products truly drive revenue?
 
-  Do discounts increase profitability or just order volume?
+-Do discounts increase profitability or just order volume?
 
-  Which customer segments generate the most value?
+-Which customer segments generate the most value?
 
-  What are the most preferred product categories?
+-What are the most preferred product categories?
 
-  How do ratings correlate with sales performance?
+-How do ratings correlate with sales performance?
 
 This project addresses these business problems using structured analytical techniques.
 
@@ -25,125 +25,125 @@ This project addresses these business problems using structured analytical techn
 The dataset contains transactional-level retail customer purchase data. Each row represents an individual customer transaction, capturing product details, purchase behavior, and transaction attributes.
 
 # 🔹 Data Structure
-Customer ID
+- Customer ID
 
-Product Category
+- Product Category
 
-Item Purchased
+- Item Purchased
 
-Purchase Amount
+- Purchase Amount
 
-Review Rating
+- Review Rating
+ 
+- Discount Applied
 
-Discount Applied
-
-Shipping Type
+- Shipping Type
 
 Each record represents a customer transaction.
 
 # 🛠 Tools & Technologies Used
 
-SQL (Advanced Queries, Aggregation, Conditional Logic, Subqueries)
+- SQL (Advanced Queries, Aggregation, Conditional Logic, Subqueries)
 
-Python (Pandas for Data Cleaning & Validation)
+- Python (Pandas for Data Cleaning & Validation)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Git & GitHub
+- Git & GitHub
 
-# 🔄 End-to-End Workflow
+# 🔄 End-to-End Workflow:
 
 **1️⃣ Data Cleaning & Preparation (Python)**
 
-   Imported raw CSV dataset
+  - Imported raw CSV dataset
    
-   Checked missing values and inconsistencies
+  - Checked missing values and inconsistencies
    
-   Standardized categorical variables
+  - Standardized categorical variables
    
-   Validated numeric fields
+  - Validated numeric fields
    
-   Prepared cleaned dataset for database import
+  - Prepared cleaned dataset for database import
    
 **2️⃣ Data Modeling & SQL Analysis**
 
-   Imported cleaned dataset into SQL database
+  - Imported cleaned dataset into SQL database
    
-   Performed aggregation analysis
+  - Performed aggregation analysis
    
-   Extracted top-performing products
+  - Extracted top-performing products
    
-   Calculated discount usage percentage
+  - Calculated discount usage percentage
    
-   Analyzed rating vs revenue patterns
+  - Analyzed rating vs revenue patterns
 
 **3️⃣ Data Visualization & Dashboarding (Power BI)**
 
-Connected SQL database to Power BI
+- Connected SQL database to Power BI
 
-Created data model and relationships
+- Created data model and relationships
 
-Built interactive dashboard including:Revenue by Category
-   Top Products by Sales
+- Built interactive dashboard including:Revenue by Category
+  - Top Products by Sales
    
-   Discount Impact Analysis
+  - Discount Impact Analysis
    
-   Customer Purchase Frequency
+  - Customer Purchase Frequency
    
-   Rating Distribution
+  - Rating Distribution
    
-Used filters and slicers for dynamic business exploration
+- Used filters and slicers for dynamic business exploration
 
-Designed KPI cards for executive-level reporting
+- Designed KPI cards for executive-level reporting
 
 **4️⃣ Insight Generation & Business Interpretation**
 
-  Identified high-performing product categories
+- Identified high-performing product categories
   
-  Evaluated discount effectiveness
+- Evaluated discount effectiveness
   
-  Compared revenue vs transaction volume
+- Compared revenue vs transaction volume
   
-  Analyzed customer purchase behavior patterns
+- Analyzed customer purchase behavior patterns
   
-  Generated business recommendations
+- Generated business recommendations
 
 **📊 Key Insights**
 
-  High sales volume does not always equal high revenue.
+- High sales volume does not always equal high revenue.
   
-  Certain categories dominate transaction frequency.
+- Certain categories dominate transaction frequency.
   
-  Discounted transactions increase order count but may impact average order value.
+- Discounted transactions increase order count but may impact average order value.
   
-  Rating score is not always directly proportional to revenue generation.
+- Rating score is not always directly proportional to revenue generation.
   
-  Shipping preference patterns indicate customer cost sensitivity.
+- Shipping preference patterns indicate customer cost sensitivity.
 
 **🚀 How to Run This Project**
 
-   Import the dataset into your SQL database
+  - Import the dataset into your SQL database
    
-   Execute the SQL query file
+  - Execute the SQL query file
    
-   Run the Jupyter Notebook for cleaning and validation
+  - Run the Jupyter Notebook for cleaning and validation
    
-   Review insights and extend analysis
+  - Review insights and extend analysis
 
 **📈 Skills Demonstrated** 
 
-   SQL Query Optimization
+  - SQL Query Optimization
    
-   Business-Oriented Data Analysis
+  - Business-Oriented Data Analysis
    
-   Analytical Thinking
+  - Analytical Thinking
    
-   Insight Communication
+  - Insight Communication
 
 **💼 Why This Project Matters**
 
- This project showcases practical skills required in real Data Analyst roles:
-   Translating business questions into SQL queries
-   Extracting measurable insights
-   Structuring analysis workflow professionally
-   Presenting findings clearly
+This project showcases practical skills required in real Data Analyst roles:
+- Translating business questions into SQL queries
+- Extracting measurable insights
+- Structuring analysis workflow professionally
+- Presenting findings clearly
